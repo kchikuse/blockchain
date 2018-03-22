@@ -1,0 +1,7 @@
+/.idea
+/bower_components
+/node_modules
+/.vscode/settings.json
+debug.log
+package-lock.json
+/.vs
